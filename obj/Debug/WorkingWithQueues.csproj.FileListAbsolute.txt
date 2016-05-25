@@ -1,0 +1,5 @@
+c:\users\jhamm014089\documents\visual studio 2015\Projects\WorkingWithQueues\WorkingWithQueues\bin\Debug\WorkingWithQueues.exe.config
+c:\users\jhamm014089\documents\visual studio 2015\Projects\WorkingWithQueues\WorkingWithQueues\bin\Debug\WorkingWithQueues.exe
+c:\users\jhamm014089\documents\visual studio 2015\Projects\WorkingWithQueues\WorkingWithQueues\bin\Debug\WorkingWithQueues.pdb
+c:\users\jhamm014089\documents\visual studio 2015\Projects\WorkingWithQueues\WorkingWithQueues\obj\Debug\WorkingWithQueues.exe
+c:\users\jhamm014089\documents\visual studio 2015\Projects\WorkingWithQueues\WorkingWithQueues\obj\Debug\WorkingWithQueues.pdb
